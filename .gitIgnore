@@ -1,0 +1,25 @@
+
+---
+
+## 2️⃣ `.gitignore`
+
+```gitignore
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Nodemon
+nodemon.json
+
+# OS files
+.DS_Store
+
+# VSCode
+.vscode/
